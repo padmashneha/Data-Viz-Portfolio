@@ -1,4 +1,4 @@
-# Coffee vending machines have become an integral part of various public and private spaces, offering a convenient way for people to grab a quick beverage.
+Coffee vending machines have become an integral part of various public and private spaces, offering a convenient way for people to grab a quick beverage.
 As their presence grows, analyzing its sales data becomes crucial to understanding customer preferences, purchasing patterns, and sales trends.
 ### Objective of this project
 * Identify Popular Hours to help the staff know when to refill the cups, coffee grains and other needs for the vending machine
