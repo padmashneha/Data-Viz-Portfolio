@@ -1,3 +1,4 @@
+# Coffee vending machines
 Coffee vending machines have become an integral part of various public and private spaces, offering a convenient way for people to grab a quick beverage.
 As their presence grows, analyzing its sales data becomes crucial to understanding customer preferences, purchasing patterns, and sales trends.
 ### Objective of this project
