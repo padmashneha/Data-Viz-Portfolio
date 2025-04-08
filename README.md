@@ -10,23 +10,25 @@ As their presence grows, analyzing its sales data becomes crucial to understandi
 The data was taken from Kaggle.
 The data represents purchases made using a coffee machine installed in a shopping center in Vinnytsia, Ukraine.
 And the data spans from **March 1, 2024 to November 15, 2024.**
+
 ![image](DataStructure.png)
 
 ### Insights
 Based on the dataset provided, the vending machine coffee sales made a total revenue of 74,500 UAH with an average monthly revenue of 8,300 UAH. Total number of coffees sold is 2,300 from March to mid November 2024.
 
-*Popular Coffee Sales Duration*
+**Popular Coffee Sales Duration**
 
 Coffee sales peaked at 10 AM to Noon and followed by sales increase at 9 PM and 8 AM.
 This is a key insight as it allows us to restock the vending machine more frequently during peak times, ensuring it never runs empty when people need it most.
 
-*Popular Coffee Blends*
+**Popular Coffee Blends**
+
 Based on our analysis Americano and Latte are the most commonly purchased coffee blends with Cappuccino being the third.
 We also want to analyze the popular coffee blends to restock the necessary ingredients required for the most popular blend quite often so it doesn’t run out.
 
 ![image](CoffeeSales.png)
 
-*Coffee Sales Seasonal Trends*
+**Coffee Sales Seasonal Trends**
 
 Identifying the coffee sales timeline can add value for restocking the popular blends.
 For example, based on the dataset, Americano with Milk and Latte or most popular in almost all the months except in the Fall season.
@@ -34,7 +36,8 @@ In Fall, it looks like Hot Chocolate is the most popular as expected.
 So having an idea about the seasonal trends, can help with identifying which blend requires frequent restocking.
 Additionally, blending this insight with the ‘Popular Coffee Blends’ can have a exponential impact on making sales as there will less chances of running out of coffee blends on the respective seasons.
 
-*Payment Types*
+**Payment Types**
+
 Based on the analysis, looks like cards are the most often used mode of payment. One caveat here is that, we don’t know what type of card it is, if it is a credit card or if it is like a food court coffee pass (RFID card). Less than 4% of people use cash.
 
 ### Recommendations
